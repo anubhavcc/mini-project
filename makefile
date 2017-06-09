@@ -1,10 +1,10 @@
-edit : 1st.o 2nd.o 
-	cc -o edit 1st.o 2nd.o
+edit : Main.o foo.o 
+	cc -o edit Main.o foo.o
 
-1st.o : 1st.c a.h
-	cc -c 1st.c
-2nd.o : 2nd.c a.h
-	cc -c 2nd.c
+Main.o : Main.c foo.h
+	cc -c Main.c
+foo.o : foo.c foo.h
+	cc -c foo.c
 clean :
-	rm edit 1st.o 2nd.o
+	rm edit Main.o foo.o
 
