@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/pro.dir/Main.c.o CMakeFiles/pro.dir/foo.c.o  -o pro -rdynamic 

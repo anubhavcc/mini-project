@@ -1,0 +1,5 @@
+/home/dell/project/mini-proj/CMakeFiles/edit_cache.dir
+/home/dell/project/mini-proj/CMakeFiles/rebuild_cache.dir
+/home/dell/project/mini-proj/mini-proj/CMakeFiles/rebuild_cache.dir
+/home/dell/project/mini-proj/mini-proj/CMakeFiles/edit_cache.dir
+/home/dell/project/mini-proj/mini-proj/CMakeFiles/pro.dir

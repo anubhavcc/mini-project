@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dell/project/mini-proj/Main.c
+stdio.h
+-
+foo.h
+/home/dell/project/mini-proj/foo.h
+
+/home/dell/project/mini-proj/foo.c
+stdio.h
+-
+foo.h
+/home/dell/project/mini-proj/foo.h
+
+/home/dell/project/mini-proj/foo.h
+
