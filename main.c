@@ -1,5 +1,5 @@
-#include<stdio.h>
-#include"foo.h"
+#include <stdio.h>
+#include "foo.h"
 
 int main() {
 	int number_1,number_2;
